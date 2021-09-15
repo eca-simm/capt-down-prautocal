@@ -7,4 +7,4 @@ There are Releases available for download, but they are not production releases.
 If you want to learn more about the project PRAUTOCAL, visit [PRAUTOCAL web site](https://eca-simm.uva.es/es/proyectos/tin2017-88858-c2-1-r/).
 
 The PRAUTOCAL Team
-[ECA-SIMM Research Group](https://eca-simm.uva.es), [(Universidad de Valladolid)](https://www.uva.es)
+[ECA-SIMM Research Group](https://eca-simm.uva.es), ([Universidad de Valladolid](https://www.uva.es)).
