@@ -1,2 +1,3 @@
-# https-github.com-eca-simm-capt-down-prautocal
+# PRAUTOCAL
+
 PRAUTOCAL game on pronunciation
